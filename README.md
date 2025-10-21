@@ -1,6 +1,7 @@
 # Movie-Recommendation-System
 
-  A premissa do meu trabalho é coletar os dados de avaliações de filmes de um perfil da plataforma Letterboxd que for colocado no programa, 
+  Se trata do projeto final da matéria Computação Científica e Análise de Dados, abreviada para COCADA.
+  A premissa do projeto é coletar os dados de avaliações de filmes de um perfil da plataforma Letterboxd que for colocado no programa, 
   ou então coletar avaliações manualmente, caso você não tenha um perfil, e com base nessas avaliações montar a equação Ax = b, 
   sendo a matriz A com linhas sendo filmes e colunas sendo gêneros, o vetor b sendo a avaliação do usuário para cada filme, 
   e x resultará no quanto o usuário gosta de cada gênero relativo a sua avaliações, pesando também a avaliação geral do mesmo, o que será mostrado na tela. 
