@@ -10,6 +10,6 @@
 
   O programa está dividido em células e foi feito no Google Colab.
 
-#Célula 0
+# Célula 0
 
 Esta célula instala as bibliotecas necessárias para o projeto: requests, beautifulsoup4, pandas, numpy, matplotlib e scipy. Elas são fundamentais para realizar o scraping dos dados da web, manipulação de tabelas, operações numéricas vetoriais, visualização gráfica e resolução de sistemas de equações com restrições. Pesquisei a função de cada uma dessas bibliotecas para tentar aplicá-las corretamente neste projeto.
