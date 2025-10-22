@@ -2,7 +2,7 @@
 
 Devido a atualizações na plataforma Letterboxd, não é mais possível realizar o WebScraping, apesar do código compilar perfeitamente, ele não coleta nenhuma avaliação, funcionando apenas com as avaliações coletadas manualmente.
 
-# 🎬 Movie-Recommendation-System
+# Movie-Recommendation-System
 
   Se trata do projeto final da matéria Computação Científica e Análise de Dados, abreviada para COCADA.
   A premissa do meu projeto é coletar os dados de avaliações de filmes de um perfil da plataforma Letterboxd que for colocado no programa, 
